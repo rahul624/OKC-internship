@@ -1,3 +1,3 @@
 # OKC-internship
 
-Have used r for the given technical assessment 
+Have found out the shot percentage of all the players of OKC team
